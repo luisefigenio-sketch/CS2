@@ -1,3 +1,9 @@
     body{
         background-color: rgb(255, 145, 0);
+        color: black;
+    }
+
+    .cabecalho{
+        background-color: blue;
+        text-align: center;
     }
