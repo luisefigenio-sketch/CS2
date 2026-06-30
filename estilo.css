@@ -21,3 +21,9 @@
         width: 410px;
         height: 410px;
     }
+    main{
+         color:blue;
+         max-width: 800px;
+         margin: 0 auto;
+         padding: 16px;
+        }
