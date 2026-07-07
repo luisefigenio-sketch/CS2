@@ -11,4 +11,4 @@ botoes.forEach(function (botao){
         texto.textContent++
     }
     
-})
+}
