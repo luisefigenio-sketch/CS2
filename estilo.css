@@ -29,7 +29,7 @@
     }
 article{
     display:flex;
-    background-color: blue;
+    background-color: rgb(245, 245, 245);
     align-items: center;
     padding: 24px;
 }  
