@@ -33,3 +33,8 @@ article{
     align-items: center;
     padding: 24px;
 }  
+button{
+     background-color: aquamarine;
+     color: blanchedalmond;
+     padding: 32px;
+     border: radius 20px;-
